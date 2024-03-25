@@ -1,0 +1,15 @@
+.container{
+    color: rgba(0, 0, 0, 0.767);
+    div{
+    background-image: url(./books.jpg);
+    font-size: larger;
+    text-decoration: dotted;
+    text-align: center;
+    image-orientation: from-image;
+    }
+    }
+body{
+
+background-image: url(./books.jpg);
+        
+    }
